@@ -36,6 +36,17 @@ void main()
 
 ## Screenshots
 
-
+| Basic Shader | Gradient Shader | Uniform Shader | Fract Shader |
+|---------------|----------------|----------------|----------------|
+| ![Basic](https://github.com/mbonnic-psx/opengl-shader-playground/blob/master/src/ss/basic_shader.png) | ![Gradient](https://github.com/mbonnic-psx/opengl-shader-playground/blob/master/src/ss/gradient_shader.png) | ![Uniform](https://github.com/mbonnic-psx/opengl-shader-playground/blob/master/src/ss/uniform_shader.png) | ![Fract](https://github.com/mbonnic-psx/opengl-shader-playground/blob/master/src/ss/fract_shader.png) |
 
 ---
+
+## Future Plans
+
+- Rendering 3D-looking shapes in 2D using distance functions
+- Water / Ripple Shader
+          Animate distortion and refraction based on time.
+- CRT Shader (Scanlines, Chromatic Aberration)
+	Stylize with time-based distortion, RGB offset, and vignetting.
+- Pixelation / Tetxure Warping similar to the PS1 style
